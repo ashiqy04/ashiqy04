@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for a new role **Software Engineer**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/ashiqy04?tab=repositories](GitHub Repo)**
+- 👨‍💻 All of my projects are available at **[https://github.com/ashiqy04?tab=repositories](https://github.com/ashiqy04?tab=repositories)**
 
 - 📫 How to reach me **ashiqy04@gmail.com**
 
-- 📄 Know about my experiences **[https://ashiq.vercel.app](https://ashiq.vercel.app - My Portfolio)**
+- 📄 Know about my experiences **[https://ashiq.vercel.app](https://ashiq.vercel.app)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
